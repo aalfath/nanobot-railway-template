@@ -1,5 +1,7 @@
 # Deploy and Host nanobot on Railway
 
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/new/template/nanobot-1?utm_medium=integration&utm_source=button&utm_campaign=nanobot)
+
 nanobot is an ultra-lightweight personal AI agent from HKU's Data Intelligence Lab, a small alternative to OpenClaw. It chats through a web UI, Telegram, WhatsApp and other channels, remembers context, runs tools such as file editing, shell, web search and cron jobs, and works with Anthropic, OpenAI, OpenRouter and many other providers.
 
 ## About Hosting nanobot
